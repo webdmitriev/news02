@@ -8,6 +8,8 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    let str: String = "title"
 
     override func viewDidLoad() {
         super.viewDidLoad()
